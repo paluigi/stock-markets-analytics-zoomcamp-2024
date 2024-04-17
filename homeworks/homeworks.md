@@ -1,0 +1,1 @@
+In this directory you can find the homeworks for the stock markets analytics zoomcamp, April 2024 cohort.
